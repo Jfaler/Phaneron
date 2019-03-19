@@ -1,3 +1,4 @@
 - TMUX
 - ZSH
-- Powerlevel 9k 
+- Powerlevel 9k
+- Neofetch
