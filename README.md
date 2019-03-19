@@ -1,0 +1,3 @@
+- TMUX
+- ZSH
+- Powerlevel 9k 
