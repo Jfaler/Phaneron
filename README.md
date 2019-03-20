@@ -11,3 +11,5 @@
 - ZSH
 - Powerlevel 9k
 - Neofetch
+- Mapscii
+- Termtrack
