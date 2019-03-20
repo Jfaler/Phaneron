@@ -1,3 +1,31 @@
+<h1 align="center"> Phaneron </h1> <br>
+<p align="center">
+  <a href="https://JustinFaler.com">
+  </a>
+</p>
+
+<p align="center">
+  Ultimate list of tools, extensions, & themes.
+</p>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Jfaler/Phaneron/blob/master/LICENSE.txt)
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Microsoft Visual Studio Code Extensions](##Microsoft Visual Studio Code Extensions)
+- [Terminal](#terminal)
+
+## Version
+`
+1.0.0.0
+`
+
+## Installation
+
+* `$ sudo git clone https://github.com/Jfaler/Phaneron`
+
+
 ## Microsoft Visual Studio Code Extensions
 - Biosyntax: Syntax highlighting for computational biology to bring you intuitively close to your data.
 - Bracket Pair Colorizer 2: A customizable extension for colorizing matching brackets.
@@ -15,3 +43,29 @@
 - Termtrack
 
 ## Mouse Cursors
+- Mousecape 
+
+
+## Authors
+
+* **Justin Faler** - *Initial work* - [Jfaler](https://github.com/Jfaler)
+
+See also the list of [contributors](https://github.com/Jfaler/Phaneron/contributors) who participated in this project.
+
+
+## Contributing
+
+1. Star & Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+### Getting Involved
+
+Want to report a bug, request a feature, contribute or translate Soup?
+
+* Browse our [issues](https://github.com/Jfaler/Phaneron/issues), comment on proposals, report bugs.
+* Clone the Phaneron repo, make some changes according to our development guidelines and issue a pull-request with your changes.
+* Anything you want to tell us please send it to: 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
+* If you need technical support or customization service, contact us: 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
