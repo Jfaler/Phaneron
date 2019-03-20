@@ -13,7 +13,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Microsoft Visual Studio Code Extensions](##Microsoft Visual Studio Code Extensions)
 - [Terminal](#terminal)
 
 ## Version
