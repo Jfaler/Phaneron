@@ -33,6 +33,7 @@
 - 🔢 LaTeX Workshop: Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - 🧭 Debugger for Chrome: Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 - 🤖 Verilog HDL/SystemVerilog: Verilog HDL and SystemVerilog support for VS Code with Syntax Highlighting, Snippets, Linting and much more!
+- 📊 Excel Viewer
 
 ## Terminal 
 - TMUX
