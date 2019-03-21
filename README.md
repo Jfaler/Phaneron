@@ -45,6 +45,9 @@
 ## Mouse Cursors
 - Mousecape 
 
+## Themes
+- ⚡ Shades of purple
+
 
 ## Authors
 
