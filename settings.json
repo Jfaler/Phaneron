@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "cmath": "cpp"
+    },
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback', 'Noto Color Emoji'",
+    "editor.cursorStyle": "block-outline",
+    "editor.mouseWheelZoom": true,
+    "java.dependency.packagePresentation": "hierarchical",
+    "python.linting.pylintEnabled": true
+}
