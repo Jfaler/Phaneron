@@ -47,7 +47,7 @@
 - Mousecape 
 
 ## Themes
-- ⚡ Shades of purple
+- ⚡ Shades of Purple
 
 
 ## Authors
