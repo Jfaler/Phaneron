@@ -44,7 +44,7 @@
 - Termtrack
 
 ## Mouse Cursors
-- Mousecape 
+- Mousecape(macOS)
 
 ## Themes
 - ⚡ Shades of Purple
