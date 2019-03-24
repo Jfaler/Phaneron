@@ -12,8 +12,11 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Version](#version)
+- [Installation](#installation)
+- [Themes](#themes)
 - [Terminal](#terminal)
+- [Contributing](#contributing)
 
 ## Version
 `
