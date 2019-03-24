@@ -34,6 +34,7 @@
 - 🧭 Debugger for Chrome: Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 - 🤖 Verilog HDL/SystemVerilog: Verilog HDL and SystemVerilog support for VS Code with Syntax Highlighting, Snippets, Linting and much more!
 - 📊 Excel Viewer
+- 🔧 Gitlens: Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 
 ## Terminal 
 - TMUX
