@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Ultimate list of tools, extensions, & themes.
+  The phaneron (Greek φανερός [phaneros] "visible, manifest")
 </p>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Jfaler/Phaneron/blob/master/LICENSE.txt)
