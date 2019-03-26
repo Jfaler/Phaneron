@@ -53,6 +53,8 @@
 ## Themes
 - ⚡ Shades of Purple
 
+## Fonts
+- Nerd fonts
 
 ## Authors
 
