@@ -38,6 +38,7 @@
 - 🤖 Verilog HDL/SystemVerilog: Verilog HDL and SystemVerilog support for VS Code with Syntax Highlighting, Snippets, Linting and much more!
 - 📊 Excel Viewer
 - 🔧 Gitlens: Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+- 👾 Team Chat:for slack,Discord,Live Share
 
 ## Terminal 
 - TMUX
