@@ -47,6 +47,8 @@
 - Neofetch
 - Mapscii
 - Termtrack
+- Ranger
+- 
 
 ## Mouse Cursors
 - Mousecape(macOS)
