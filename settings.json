@@ -74,6 +74,6 @@
     "latex-workshop.message.update.show": false,
     "python.jediEnabled": false,
     "code-runner.executorMapByGlob": {
-        "*.asm": "nasm -f elf64 $fileName && ld $dir$fileNameWithoutExt -o $fileNameWithoutExt && ./$fileNameWithoutExt",
+         "*.asm": "nasm -f elf64 $fileName && ld -s -o $fileNameWithoutExt $fileNameWithoutExt.o && ./$fileNameWithoutExt",
     }
 }
