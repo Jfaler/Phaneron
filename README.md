@@ -49,7 +49,7 @@
 - Mapscii
 - Termtrack
 - Ranger
-- 
+- Weechat
 
 ## Mouse Cursors
 - Mousecape(macOS)
