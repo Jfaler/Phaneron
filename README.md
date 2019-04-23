@@ -50,6 +50,7 @@
 - Termtrack
 - Ranger
 - Weechat
+- Termshark
 
 ## Mouse Cursors
 - Mousecape(macOS)
